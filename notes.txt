@@ -1,0 +1,3 @@
+1. Making default theme as 'black' and extending it for the app
+2. Creating the AuthPage with Chakra UI elements such as VStack, Box, Flex, etc.
+3. Creating components, starting with AuthForm, followed by UseState to create an option for creating a new account in the same page. All of this is done within a React fragment
